@@ -1,0 +1,144 @@
+[
+    {
+        "number" : "1",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : false
+    },
+    {
+        "number" : "2",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : true
+    },
+    {
+        "number" : "3",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : false,
+        "delay" : false
+    },
+    {
+        "number" : "4",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : true
+    },
+    {
+        "number" : "5",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : false
+    },
+    {
+        "number" : "6",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : false,
+        "delay" : true
+    },{
+        "number" : "7",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : false
+    },
+    {
+        "number" : "8",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : true
+    },
+    {
+        "number" : "9",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : false,
+        "delay" : false
+    },
+    {
+        "number" : "10",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : true
+    },
+    {
+        "number" : "11",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : false
+    },
+    {
+        "number" : "12",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : false,
+        "delay" : true
+    },{
+        "number" : "13",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : false
+    },
+    {
+        "number" : "14",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : true
+    },
+    {
+        "number" : "15",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : false,
+        "delay" : false
+    },
+    {
+        "number" : "16",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : true
+    },
+    {
+        "number" : "17",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : true,
+        "delay" : false
+    },
+    {
+        "number" : "18",
+        "destination" : "Лондон",
+        "departureTime" : "17:00",
+        "arrivalTime" : "21:00",
+        "status" : false,
+        "delay" : true
+    }
+]
