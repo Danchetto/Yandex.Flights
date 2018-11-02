@@ -1,4 +1,4 @@
-export const HTTP_DOMEN: string = 'http://localhost:5000';
+export const HTTP_DOMEN: string = '';
 export const GET: string = 'GET';
 export const POST: string = 'POST';
 export const JSON_CONTENT_TYPE: string = 'application/json';

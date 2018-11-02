@@ -31,9 +31,9 @@ module.exports = {
         watchOptions: {
             poll: true
         },
-        proxy: [{
-            target: 'http://localhost:5000',
-        }]
+        proxy: {
+            '/get_flights': 'http://localhost:5000',
+        }
     },
     module: {
         rules: [

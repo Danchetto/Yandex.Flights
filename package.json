@@ -5,11 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
-    "tslint": "tslint ./src/**/*.tsx",
-    "start": "webpack-dev-server --mode development --inline",
-    "server": "node ./server/index.js",
-    "task1": "node ./Task/Task1.js",
-    "task2": "node ./Task/Task2.js"
+    "start": "node ./server/index.js & webpack-dev-server --mode development --inline",
+    "server": "node ./server/index.js"
   },
   "author": "",
   "license": "ISC",
