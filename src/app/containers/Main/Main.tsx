@@ -78,7 +78,7 @@ class Main extends React.Component<IProps, IState> {
             <React.Fragment>
                 <div className="header">
                     <Header className='header__data' size='huge' color='black'>Я.Табло</Header>
-                    <Header className='header__data' size='large' color='black'>Аэропорт Шереметьего</Header>
+                    <Header className='header__data' size='large' color='black'>Аэропорт Шереметьево</Header>
                 </div>
                 <div className="main">
                     <Filters onChange={this.handleCheck} search={this.search}/>
