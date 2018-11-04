@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack --mode development",
     "start": "node ./server/index.js & webpack-dev-server --mode development --inline",
-    "server": "node ./server/index.js"
+    "server": "node ./server/index.js",
+    "tick": "node ./ticker/ticker.js"
   },
   "author": "",
   "license": "ISC",
