@@ -4,7 +4,6 @@ import {GET_FLIGHTS} from '../../constants/HttpConstants';
 import {IState} from '../../containers/Main/Main';
 
 export function getFlights(filters: IState, flights: Array<any>) {
-    console.log('filters: ', filters);
     return async (dispatch) => {
 
         const response = await transport.doGet(GET_FLIGHTS);
@@ -26,8 +25,6 @@ export function getFlights(filters: IState, flights: Array<any>) {
             }
             return item.delay && (item.status === filters.arrival || item.status === !filters.departure);
         });
-
-        console.log('NEW: ', newData);
 
         dispatch(setFlights(newData));
     };

@@ -1,26 +1,6 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
-const cors = require('cors');
-
-// app.use((req, res, next) => {
-//     res.append('Access-Control-Allow-Origin', ['*']);
-//     res.append('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-//     res.append('Access-Control-Allow-Headers', 'Content-Type');
-//     next();
-// });
-
-// const whitelist = [
-//     'http://localhost:5000'
-// ];
-
-// const corsOptions = {
-//     origin: function(origin, callback){
-//           const isWhitelisted = whitelist.indexOf(origin) !== -1;
-//           callback(null, isWhitelisted);
-//     },
-//   };
-
 
 app.get('/get_flights', (req, res) => {
 
