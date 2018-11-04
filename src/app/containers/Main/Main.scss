@@ -1,6 +1,10 @@
+body {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
 .header {
+    margin-top: 20px;
     min-height: 100px;
-    color: white;
     font-size: 2em;
     &__data {
         margin-top: 40px;

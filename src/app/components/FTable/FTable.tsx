@@ -18,7 +18,7 @@ export default class FTable extends React.Component<IProps, any> {
 
         return(
             <div className='table'>
-                <Table >
+                <Table selectable celled>
                     <TableHeader>
                         <TableRow>
                             {headers.length ? headers.map((item, key) => {

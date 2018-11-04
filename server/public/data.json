@@ -1,9 +1,9 @@
 [
     {
         "number" : "1",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Париж",
+        "departureTime" : "13:37",
+        "arrivalTime" : "16:01",
         "status" : true,
         "delay" : false
     },
@@ -11,52 +11,52 @@
         "number" : "2",
         "destination" : "Лондон",
         "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "arrivalTime" : "19:00",
         "status" : true,
         "delay" : true
     },
     {
         "number" : "3",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Нью-Йорк",
+        "departureTime" : "00:00",
+        "arrivalTime" : "12:00",
         "status" : false,
         "delay" : false
     },
     {
         "number" : "4",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Санкт-Петербург",
+        "departureTime" : "17:03",
+        "arrivalTime" : "18:30",
         "status" : true,
         "delay" : true
     },
     {
         "number" : "5",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Самара",
+        "departureTime" : "15:00",
+        "arrivalTime" : "17:00",
         "status" : true,
         "delay" : false
     },
     {
         "number" : "6",
-        "destination" : "Лондон",
+        "destination" : "Прага",
         "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "arrivalTime" : "19:02",
         "status" : false,
         "delay" : true
     },{
         "number" : "7",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Тбилиси",
+        "departureTime" : "14:40",
+        "arrivalTime" : "16:50",
         "status" : true,
         "delay" : false
     },
     {
         "number" : "8",
-        "destination" : "Лондон",
+        "destination" : "Барселона",
         "departureTime" : "17:00",
         "arrivalTime" : "21:00",
         "status" : true,
@@ -64,7 +64,7 @@
     },
     {
         "number" : "9",
-        "destination" : "Лондон",
+        "destination" : "Хельсинки",
         "departureTime" : "17:00",
         "arrivalTime" : "21:00",
         "status" : false,
@@ -72,7 +72,7 @@
     },
     {
         "number" : "10",
-        "destination" : "Лондон",
+        "destination" : "Бостон",
         "departureTime" : "17:00",
         "arrivalTime" : "21:00",
         "status" : true,
@@ -80,15 +80,15 @@
     },
     {
         "number" : "11",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Ростов-на-Дону",
+        "departureTime" : "16:00",
+        "arrivalTime" : "19:00",
         "status" : true,
         "delay" : false
     },
     {
         "number" : "12",
-        "destination" : "Лондон",
+        "destination" : "Екатеринбург",
         "departureTime" : "17:00",
         "arrivalTime" : "21:00",
         "status" : false,
@@ -96,14 +96,14 @@
     },{
         "number" : "13",
         "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "departureTime" : "12:37",
+        "arrivalTime" : "14:42",
         "status" : true,
         "delay" : false
     },
     {
         "number" : "14",
-        "destination" : "Лондон",
+        "destination" : "Рим",
         "departureTime" : "17:00",
         "arrivalTime" : "21:00",
         "status" : true,
@@ -111,7 +111,7 @@
     },
     {
         "number" : "15",
-        "destination" : "Лондон",
+        "destination" : "Амстердам",
         "departureTime" : "17:00",
         "arrivalTime" : "21:00",
         "status" : false,
@@ -119,25 +119,25 @@
     },
     {
         "number" : "16",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Берлин",
+        "departureTime" : "11:00",
+        "arrivalTime" : "14:00",
         "status" : true,
         "delay" : true
     },
     {
         "number" : "17",
-        "destination" : "Лондон",
+        "destination" : "Мюнхен",
         "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "arrivalTime" : "20:00",
         "status" : true,
         "delay" : false
     },
     {
         "number" : "18",
-        "destination" : "Лондон",
-        "departureTime" : "17:00",
-        "arrivalTime" : "21:00",
+        "destination" : "Архангельск",
+        "departureTime" : "13:00",
+        "arrivalTime" : "16:00",
         "status" : false,
         "delay" : true
     }
